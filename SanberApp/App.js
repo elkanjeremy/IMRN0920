@@ -16,11 +16,12 @@ import {
   StatusBar,
 } from 'react-native';
 
-import YoutubeUI from './Tugas/Tugas12/App';
+import Login from './quiz3/Login';
+import Register from './quiz3/Register';
 
 const App = () => {
   return (
-    <YoutubeUI />
+    <Register />
   );
 };
 
